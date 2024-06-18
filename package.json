@@ -22,21 +22,21 @@
   "author": "OrRosenblatt",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.0.0",
+    "@actions/core": "^1.9.1",
     "@types/jest": "^24.0.22",
-    "ajv": "^6.10.2",
-    "better-ajv-errors": "^0.6.7",
+    "ajv": "^6.12.3",
+    "better-ajv-errors": "^1.2.0",
     "chalk": "^2.4.2",
     "path": "^0.12.7"
   },
   "devDependencies": {
     "@types/node": "^12.12.6",
     "husky": "^3.0.9",
-    "jest": "^24.9.0",
-    "jest-circus": "^24.7.1",
+    "jest": "^29.7.0",
+    "jest-circus": "^29.7.0",
     "lint-staged": "^9.4.2",
     "prettier": "1.18.2",
-    "ts-jest": "^24.0.2",
+    "ts-jest": "^29.1.5",
     "typescript": "^3.7.2"
   }
 }
